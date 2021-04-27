@@ -18,7 +18,6 @@
 
 .flex-column-reverse
 
-
 .justify-content-start
 
 .justify-content-center
@@ -40,6 +39,7 @@
 .justify-content-center
 
 .justify-content-end
+
 
 ### Margin/Padding
 ---
