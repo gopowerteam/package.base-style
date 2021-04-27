@@ -1,6 +1,14 @@
 常用样式布局
 ===
 
+### Usage
+
+```
+npm install @gopowerteam/base-style.css
+
+import '@gopowerteam/base-style.css'
+```
+
 ### flex
 ---
 

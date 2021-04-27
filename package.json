@@ -1,6 +1,6 @@
 {
   "name": "@gopowerteam/base-style.css",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "基础常用样式库",
   "main": "./dist/index.css",
   "style": "./dist/index.css",
