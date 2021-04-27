@@ -1,6 +1,6 @@
 {
   "name": "@gopowerteam/base-style.css",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "基础常用样式库",
   "main": "./dist/index.css",
   "style": "./dist/index.css",
@@ -8,6 +8,10 @@
     "name": "zhuchentong",
     "email": "2037630@gmail.com"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "lessc ./styles/index.less ./dist/index.css --clean-css=\"advanced\""
