@@ -1,10 +1,33 @@
-使用Less来打造你前端样式的武器库
+常用样式布局
 ===
 
-[少年啊,来使用Less来打造你前端样式的武器库吧! - (1)基础样式篇](https://juejin.cn/post/6899719687764967432)
+### flex
+---
 
-[少年啊,来使用Less来打造你前端样式的武器库吧! - (2)Flex布局篇](https://juejin.cn/post/6899720716631932936)
+.flex 
+.flex-wrap
+.flex-nowrap
+.flex-row
+.flex-column
+.flex-row-reverse
+.flex-column-reverse
 
-* common.less  ----  基础样式布局
 
-* flex.less    ----  Flex样式布局
+.justify-content-start
+.justify-content-center
+.justify-content-end
+.justify-content-round
+.justify-content-between
+
+.align-items-start
+.align-items-center
+.align-items-end
+
+.item-content-start
+.justify-content-center
+.justify-content-end
+
+### Margin/Padding
+
+m|p-a|t|b|l|r-{number} 
+
