@@ -4,6 +4,10 @@
   "description": "基础常用样式库",
   "main": "./dist/index.css",
   "style": "./dist/index.css",
+  "author": {
+    "name": "zhuchentong",
+    "email": "2037630@gmail.com"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "lessc ./styles/index.less ./dist/index.css --clean-css=\"advanced\""
@@ -12,7 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/gopowerteam/package.base-style.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gopowerteam/package.base-style.git/issues"
