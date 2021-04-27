@@ -1,0 +1,25 @@
+{
+  "name": "base-style.css",
+  "version": "1.0.0",
+  "description": "基础常用样式库",
+  "main": "./dist/index.css",
+  "style": "./dist/index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "lessc ./styles/index.less ./dist/index.css --clean-css=\"advanced\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopowerteam/package.base-style.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopowerteam/package.base-style.git/issues"
+  },
+  "homepage": "https://github.com/gopowerteam/package.base-style.git#readme",
+  "devDependencies": {
+    "less": "^4.1.1",
+    "less-plugin-clean-css": "^1.5.1"
+  }
+}
